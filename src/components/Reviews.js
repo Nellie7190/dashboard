@@ -1,6 +1,6 @@
 const Reviews = () => {
     return (
-        <div className="review">
+        <div className="reviews">
             <p>Review</p>
             <h1> 1,281 </h1>
         </div>
